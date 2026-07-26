@@ -1,5 +1,5 @@
 """
-MovieIQ Predictive Analytics on Film 
+MovieIQ — Predictive Analytics on Film Success
 Streamlit dashboard: "Minimalist Slate" design, interactive Plotly charts.
 
 Run locally with:  streamlit run MovieIQ.py
